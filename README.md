@@ -1,6 +1,6 @@
 # Complex Vs transformers
 
-Fb15k\
+## Fb15k
 ### Complex:
 (MRR: 0.2234 , hits@1: 0.1601, hits@10: 0.3503 )\
 ### Transformers (trainMode: score, ValMaskMode: sr?):  
@@ -8,7 +8,7 @@ Fb15k\
 ### Transformers (trainMode: mlm, ValMaskMode: ?ro):    
 (MRR: 0.2352 , hits@1: 0.1456, hits@10: 0.3791 )\
 
-WN18RR\
+## WN18RR
 ### Complex:   
 (MRR: 0.3822 , hits@1: 0.2161, hits@10: 0.3841 )\
 ### Transformers (trainMode: score, ValMaskMode: sr?):  
